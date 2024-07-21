@@ -80,6 +80,14 @@ console.log(gameCounter);
 
 
 
+// ++++++++++++++++++++++++++++++++++++++++
+
+                // Stack and heap
+
+
+let
+
+
 
 
 
